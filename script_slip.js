@@ -87,7 +87,7 @@ console.log(pay)
     $("#payin").html(html5)
     $("#payout").html(html6)
     $("#list").html(html)
-    $("#qrPrint").attr('src', `https://promptpay.io/0817410181/${amountTax.toFixed(2)}`);
+    $("#qrPrint").attr('src', `https://promptpay.io/0962562259/${amountTax.toFixed(2)}`);
 
     $("#subtotal").html(html2).promise().done(()=>{})
 })
