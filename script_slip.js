@@ -117,7 +117,7 @@ function numberWithCommas(x) {
         let config = {
             method: 'post',
             maxBodyLength: Infinity,
-            url: 'https://script.google.com/macros/s/AKfycbx6pc8rSkEK32v3oA3in6vjyTH8U7nFEbqM0-mA__zzlvw_So2Z0r2JqFoKmazUPDy1/exec?type=2',
+            url: 'https://script.google.com/macros/s/AKfycbyK8zfw11qz74oaBqvbHnk7eGAnTCuZcxHSTi7FUxuADWvbM61YvoCi5rM0H2CxMMb4qg/exec?type=2',
             headers: { },
             data : formData
         };
