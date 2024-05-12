@@ -141,7 +141,7 @@ function selectproduct(mid, mname, mprice) {
   $("#sum").html(html2)
 
   amount_p = sumprice
-  document.getElementById("qr").src = "https://promptpay.io/0817410181/"+sumprice
+  document.getElementById("qr").src = "https://promptpay.io/0962562259/"+sumprice
 }
 
 
